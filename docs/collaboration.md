@@ -35,7 +35,7 @@ You will focus on three key areas:
 
 - Add some useful columns that must include SiteUrl and then can have others you see fit e.g. description, key initiative, project owner etc.
 
-![Template]()
+![Template](assets/Collaboration02.png)
 
 #### Create an automation
 
@@ -43,8 +43,8 @@ You will focus on three key areas:
 
 Select Request approval in Teams (unless you want to be more inspired)
 
-![Template]()
-![Template]()
+![Template](assets/Collaboration03.png)
+![Template](assets/Collaboration04.png)
 
 #### Set up the Flow
 
@@ -52,7 +52,7 @@ Select Request approval in Teams (unless you want to be more inspired)
 
 	- You will have to remove the optional fields in the approval action and potentially refresh the page.
 
- ![Template]()
+ ![Template](assets/Collaboration05.png)
 
 #### Add create site action
 
@@ -76,7 +76,7 @@ Select Request approval in Teams (unless you want to be more inspired)
 	
 	- {  "request": {    "Title": "@{triggerBody()?['Title']}",    "Url": "https://yourtenant.sharepoint.com/sites/@{triggerBody()?['SiteUrl']}",    "Lcid": 1033,    "ShareByEmailEnabled": false,    "Description": "Site for project collaboration",    "WebTemplate": "STS#3",    "Owner": "@{outputs('Get_my_profile_(V2)')?['body/mail']}"  }}
 
- ![Template]()
+ ![Template](assets/Collaboration06.png)
 
 #### Create a Project Document
 
@@ -88,7 +88,7 @@ Select Request approval in Teams (unless you want to be more inspired)
 
 - Potentially set up a flow on creation to copy to Project Site
 
- ![Template]()
+ ![Template](assets/Collaboration07.png)
 
 #### Create a Project Site
 
@@ -141,7 +141,7 @@ Digital Workplace Transformation: Creating a modern digital workplace that foste
 
 - See further details at Organize files in a SharePoint document library - SharePoint in Microsoft 365 | Microsoft Learn
 
- ![Template]()
+ ![Template](assets/Collaboration08.png)
 
 ##### Show other agents
 
@@ -151,7 +151,7 @@ Digital Workplace Transformation: Creating a modern digital workplace that foste
 
 - Add an icon to the home page using the Agent Link web part
 
- ![Template]()
+ ![Template](assets/Collaboration09.png)
 
 ##### Show other agents
 
@@ -161,4 +161,4 @@ Digital Workplace Transformation: Creating a modern digital workplace that foste
 
 - Create the agent and then select channels and set up the SharePoint channel for one of your project sites
 
- ![Template]()
+ ![Template](10)
