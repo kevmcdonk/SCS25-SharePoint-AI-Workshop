@@ -25,7 +25,7 @@ You will focus on three key areas:
 
 - Create a communication site and call it PMO-{YOUR INITIALS}, choosing whichever template you like
 
-![Template]()
+![Template](assets/Collaboration01.png)
 
 #### Create Project List
 
