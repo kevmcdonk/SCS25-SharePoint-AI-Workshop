@@ -12,6 +12,8 @@ export default defineConfig({
       {
         text: "Sections",
         items: [
+          { text: "Knowledge", link: "/knowledge/" },
+          { text: "Communication", link: "/communication/" },
           { text: "Collaboration", link: "/collaboration/" },
         ],
       },
