@@ -24,6 +24,8 @@ export default defineConfig({
       {
         text: "Labs",
         items: [
+          { text: "Knowledge", link: "/knowledge/" },
+          { text: "Communication", link: "/communication/" },
           { text: "Collaboration", link: "/collaboration/" },
         ],
       },

@@ -4,3 +4,6 @@
 
 #### Collaboration Resources
 - [Project Files Zip](assets/EDTI%20Sample.zip)
+
+#### Knowledge Resources
+- [Sample Documents](assets/Sample%20Documents.zip)
